@@ -1,0 +1,42 @@
+h1 {
+    color: #fdd017;
+}
+
+nav {
+    display: flex;
+    position: fixed;
+    margin-left: 10%;
+    background-color:#b5d7dd;
+    opacity: 35%;
+    font-size: 2rem;
+    justify-content: space-between;
+    gap: 15px;
+    margin-right: 10%;
+    width: 80%;
+    padding-left: 7%;
+}
+
+nav a {
+    color: #eb4a9e;
+    opacity: 90%;
+}
+
+#resume {
+    font-family: 'Abel', sans-serif;
+    background-image: linear-gradient(315deg, #a159e5, yellow, #7DF9FF, #f24f96);
+}
+
+h1, a {
+    font-family: 'PT Sans', sans-serif;
+}
+
+.img {
+    border-radius: 50%;
+}
+
+section.skills img {
+    height: 200px;
+    width: 350px;
+    border-radius: 0px 25px;
+}
+
